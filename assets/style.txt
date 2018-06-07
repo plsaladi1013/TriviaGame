@@ -1,0 +1,13 @@
+body{
+    background-color:pink;
+    text-align:center; 
+}
+.jumbotron{
+    background-color: yellow;
+    margin: 100px 100px 100px 100px;
+}
+.display-4{
+    text-decoration: bold;
+    color: blue;
+
+}
